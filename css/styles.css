@@ -1,0 +1,27 @@
+.instructors-section {
+  padding: 50px 0;
+}
+
+.instructor-card {
+  margin-bottom: 30px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.instructor-card img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.instructor-card h2 {
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+}
+
+.instructor-card p {
+  margin-bottom: 5px;
+}
